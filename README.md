@@ -1,3 +1,1 @@
-# meesho
-# fundingsocieities
 # fundingsocieities
